@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-oxref
-Version:	57513
-Release:	2
+Version:	68950
+Release:	1
 Summary:	BibLaTeX styles inspired by the Oxford Guide to Style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-oxref
