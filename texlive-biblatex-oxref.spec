@@ -1,5 +1,5 @@
 Name:		texlive-biblatex-oxref
-Version:	68950
+Version:	72164
 Release:	1
 Summary:	BibLaTeX styles inspired by the Oxford Guide to Style
 Group:		Publishing
